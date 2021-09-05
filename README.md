@@ -6,7 +6,7 @@
 
 ## Sobre
 
-#### Challenge - Refatorar catalogo de filmes, componentizando.
+#### Challenge - Componentização - Refatorar catalogo de filmes.
 ---
 ## Tecnologia
 
