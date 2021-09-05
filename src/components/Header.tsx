@@ -1,11 +1,7 @@
 import { GenreContext } from '../context/GenreContext';
 import { useContext } from 'react';
 
-interface HeaderProps {
-    title: string;
-}
-
-const Header = () => {
+export function Header() {
 
     const { list, setList } = useContext(GenreContext);
 
@@ -16,4 +12,3 @@ const Header = () => {
     );
 }
 
-export { Header };
