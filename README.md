@@ -28,4 +28,5 @@
    $ yarn install
 
    # iniciar o projeto
+   $ yarn server
    $ yarn dev
